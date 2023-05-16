@@ -178,11 +178,5 @@ public class AuctionBidding {
 
             }while(!exit && newPrice < buyNowPrice);
         }
-
-
-
-//        if (newPrice < buyNowPrice) {
-//            System.out.println("Auction ended without reaching the buy now price.");
-//        }
     }
 }
